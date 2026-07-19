@@ -111,7 +111,7 @@ Local authorities in the UK directly control only around 4% of territorial emiss
 
 **What this covers:** All food, wine, and beverages purchased by the catering department. Calculated using spend-based EEIO (Stage 1): spend in GBP multiplied by sector emission factor (1.82 kgCO2e/GBP for food, SIC 10; 0.84 for beverages, SIC 11) divided by 1,000 equals tCO2e. Stage 2 upgrade to weight-based method requires procurement data by food type - not yet obtained.
 
-![Cat 1 Food emissions 2017-2024](figures/cat1_food.png)
+![Cat 1 Food emissions 2017-2024](cat1_food.png)
 
 |
  Metric 
@@ -156,7 +156,7 @@ Local authorities in the UK directly control only around 4% of territorial emiss
 
 **What this covers:** Cleaning materials, laundry services, maintenance and repairs, stationery, printing, books, journals and library resources. EEIO factors applied by SIC code: chemicals 1.31 kgCO2e/GBP (SIC 20); repair services 0.62 (SIC 43); paper 0.72 (SIC 17); publishing 0.49 (SIC 58); personal services 0.55 (SIC 96). Source: DEFRA/ONS UK Carbon Footprint supplementary tables, Table 13.
 
-![Cat 1 Other Procurement 2017-2024](figures/cat1_other.png)
+![Cat 1 Other Procurement 2017-2024](cat1_other.png)
 
 |
  Metric 
@@ -191,7 +191,7 @@ Local authorities in the UK directly control only around 4% of territorial emiss
 
 Electricity T&D losses are zero: the institution imports no grid electricity. All electricity is generated on-site by solar PV, confirmed by prior GHG researcher (quarterly meter reports to estates). This was independently verified through meter readings across all buildings.
 
-![Cat 3 Gas WTT emissions 2017-2025](figures/cat3_wtt.png)
+![Cat 3 Gas WTT emissions 2017-2025](cat3_wtt.png)
 
 |
  Metric 
@@ -236,7 +236,7 @@ Electricity T&D losses are zero: the institution imports no grid electricity. Al
 
 **What this covers:** Solid waste generated in operations and treated by contractor. Two periods calculated: (1) previous contractor, April 2023 to January 2024 (11 months, annualised) - 158 tonnes total, 98% diverted from landfill, 2% to landfill, DEFRA 2024 emission factors; (2) current contractor, July 2025 to June 2026 (12 months) - 123.5 tonnes, 100% diverted from landfill, DEFRA 2025 emission factors. Water/wastewater is Category 3 per DEFRA and excluded from Cat 5.
 
-![Cat 5 Waste by treatment stream](figures/cat5_waste.png)
+![Cat 5 Waste by treatment stream](cat5_waste.png)
 
 |
  Metric 
@@ -281,7 +281,7 @@ Electricity T&D losses are zero: the institution imports no grid electricity. Al
 
 **What this covers:** Air travel by institutional staff, primarily the development department. Distance-based method: route km multiplied by 2 (return) multiplied by passengers multiplied by 0.19523 kgCO2e/km (long haul, economy, with radiative forcing, DEFRA 2025). Data from transaction-level expense records. Trips identified from transaction descriptions; bundled hotel/flight items interpolated. All figures in financial years (July-June).
 
-![Cat 6 Business Travel 2017-2024](figures/cat6_travel.png)
+![Cat 6 Business Travel 2017-2024](cat6_travel.png)
 
 |
  Metric 
@@ -419,7 +419,7 @@ Six equity-based frameworks were applied to allocate a Paris-aligned carbon budg
 
 **Key finding:** The choice of framework produces a 75% difference in permissible emissions for the same institution in the same year (per capita 978 vs floor area 560 in 2024). The institution's own committee trajectory sits between grandfathering and C&C. The actual measured emissions (Green line, market-based Scope 2) fall below even the most aggressive framework from 2022, demonstrating that solar investment has effectively resolved the Scope 1+2 challenge.
 
-![Six downscaling trajectories vs actual Scope 1+2](figures/trajectories.png)
+![Six downscaling trajectories vs actual Scope 1+2](trajectories.png)
 
 ---
 
@@ -493,7 +493,7 @@ The MCDA (Simple Additive Weighting, 9 interventions, 4 criteria) produces a pri
  423 tCO2e 
 |
 
-![Curve A normative allocation vs Curve B MCDA feasibility pathway](figures/curve_ab.png)
+![Curve A normative allocation vs Curve B MCDA feasibility pathway](curve_ab.png)
 
 **Reading this chart:** Smooth curves are normative allocations (what each equity framework requires). The thick stepped black line is Curve B - what the institution can technically achieve through its own physical interventions given feasibility constraints. The shaded gap from 2030 represents emissions that cannot be reduced through energy efficiency alone and require Scope 3 action - particularly food procurement reform and engagement with the institutional investment portfolio (Cat 15, data pending from investment manager).
 
