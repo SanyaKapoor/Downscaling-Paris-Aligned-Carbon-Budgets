@@ -12,137 +12,11 @@ Local authorities in the UK directly control only around 4% of territorial emiss
 
 ---
 
-## Scope 3 emissions summary
-
-|
- Category 
-|
- GHG Protocol 
-|
- Method 
-|
- 2024 estimate 
-|
- Data quality 
-|
-|
----
-|
----
-|
----
-|
----:
-|
----
-|
-|
- Food and drink procurement 
-|
- Cat 1 
-|
- Spend-based EEIO (Stage 1) 
-|
- 1,118 tCO2e 
-|
- Low - Stage 2 upgrade needed 
-|
-|
- Other procurement 
-|
- Cat 1 
-|
- Spend-based EEIO (Stage 1) 
-|
- 296 tCO2e 
-|
- Medium 
-|
-|
- Fuel and energy upstream 
-|
- Cat 3 
-|
- Activity-based (gas WTT) 
-|
- 7.4 tCO2e 
-|
- High 
-|
-|
- Waste disposal 
-|
- Cat 5 
-|
- Activity-based (by stream) 
-|
- 2.9 tCO2e 
-|
- High 
-|
-|
- Business travel - flights 
-|
- Cat 6 
-|
- Distance-based with RF 
-|
- 18.7 tCO2e 
-|
- Medium - lower bound 
-|
-|
- Institutional investments 
-|
- Cat 15 
-|
- Financed emissions (PCAF) 
-|
- Pending 
-|
- No data yet 
-|
-
-> **Note:** Cat 15 (investments) is expected to be the largest single category once data is obtained from the investment manager. At a conservative intensity of 50 tCO2e per £m invested, it would exceed all other categories combined.
-
----
-
 ## Cat 1 - Food and Drink Procurement
 
 **What this covers:** All food, wine, and beverages purchased by the catering department. Calculated using spend-based EEIO (Stage 1): spend in GBP multiplied by sector emission factor (1.82 kgCO2e/GBP for food, SIC 10; 0.84 for beverages, SIC 11) divided by 1,000 equals tCO2e. Stage 2 upgrade to weight-based method requires procurement data by food type - not yet obtained.
 
 ![Cat 1 Food emissions 2017-2024](cat1_food.png)
-
-|
- Metric 
-|
- Value 
-|
-|
----
-|
----
-|
-|
- Share of total Scope 3 (2024) 
-|
- 71.8% 
-|
-|
- 2024 estimate 
-|
- 1,118 tCO2e 
-|
-|
- EF range: beef vs salad 
-|
- approximately 30x difference 
-|
-|
- Source 
-|
- DEFRA/ONS Table 13, SIC 10/11 
-|
 
 > *"Weight data by food type is the single most important piece of outstanding data. The EEIO factor averages across all food types - it cannot distinguish a beef-heavy menu from a plant-based one. The same spend produces emissions 30 times higher if it is red meat."*
 > 
@@ -158,27 +32,6 @@ Local authorities in the UK directly control only around 4% of territorial emiss
 
 ![Cat 1 Other Procurement 2017-2024](cat1_other.png)
 
-|
- Metric 
-|
- Value 
-|
-|
----
-|
----
-|
-|
- Share of total Scope 3 (2024) 
-|
- 24.2% 
-|
-|
- 2024 estimate 
-|
- 296 tCO2e 
-|
-
 > *"Building materials, electrical, plumbing - they are all combined under general repairs. The professional fees line covers architect charges, not the buildings cost. So only depreciation is left for Cat 2."*
 > 
 > Finance representative, interview June 2026
@@ -193,36 +46,6 @@ Electricity T&D losses are zero: the institution imports no grid electricity. Al
 
 ![Cat 3 Gas WTT emissions 2017-2025](cat3_wtt.png)
 
-|
- Metric 
-|
- Value 
-|
-|
----
-|
----
-|
-|
- 2025 figure 
-|
- 6.9 tCO2e (lowest on record) 
-|
-|
- Reduction 2017-2025 
-|
- -32% 
-|
-|
- Electricity T&D 
-|
- 0 tCO2e (no grid import) 
-|
-|
- Source 
-|
- DEFRA 2025, WTT-fuels tab, 0.03021 kgCO2e/kWh 
-|
 
 > *"Don't take anyone's word for it, including mine. The college hired specialists to verify. The data points represent annual meter readings - lines between them guide the eye and do not represent sub-annual values."*
 > 
@@ -238,37 +61,6 @@ Electricity T&D losses are zero: the institution imports no grid electricity. Al
 
 ![Cat 5 Waste by treatment stream](cat5_waste.png)
 
-|
- Metric 
-|
- Value 
-|
-|
----
-|
----
-|
-|
- Reduction between periods 
-|
- -64.5% 
-|
-|
- Landfill diversion (current contractor) 
-|
- 100% 
-|
-|
- Landfill EF vs EfW EF 
-|
- 446 vs 15.6 kgCO2e/tonne - 29x difference 
-|
-|
- Source 
-|
- DEFRA 2024/2025, Waste disposal tab 
-|
-
 > *"Not all our waste goes to the same place."*
 > 
 > Maintenance representative, on waste heat recovery feasibility, MCDA interview June 2026
@@ -282,37 +74,6 @@ Electricity T&D losses are zero: the institution imports no grid electricity. Al
 **What this covers:** Air travel by institutional staff, primarily the development department. Distance-based method: route km multiplied by 2 (return) multiplied by passengers multiplied by 0.19523 kgCO2e/km (long haul, economy, with radiative forcing, DEFRA 2025). Data from transaction-level expense records. Trips identified from transaction descriptions; bundled hotel/flight items interpolated. All figures in financial years (July-June).
 
 ![Cat 6 Business Travel 2017-2024](cat6_travel.png)
-
-|
- Metric 
-|
- Value 
-|
-|
----
-|
----
-|
-|
- Total identified flights 2017-2024 
-|
- 108 tCO2e 
-|
-|
- Highest year 
-|
- FY2023: 30.1 tCO2e (multiple international campaigns) 
-|
-|
- COVID year 
-|
- FY2020: 0 tCO2e 
-|
-|
- Source 
-|
- DEFRA 2025, Business Travel - Air tab, with radiative forcing 
-|
 
 > *"The development department's international alumni programme produced more carbon in the highest year than all other Scope 3 categories combined for that year, except food procurement."*
 > 
@@ -518,96 +279,4 @@ The MCDA (Simple Additive Weighting, 9 interventions, 4 criteria) produces a pri
 
 ---
 
-## Abbreviations
-
-|
- Abbreviation 
-|
- Full term 
-|
-|
----
-|
----
-|
-|
- C&C 
-|
- Contraction and Convergence 
-|
-|
- CO2e 
-|
- Carbon dioxide equivalent 
-|
-|
- EEIO 
-|
- Environmentally Extended Input-Output analysis 
-|
-|
- EF 
-|
- Emission factor 
-|
-|
- EfW 
-|
- Energy from Waste 
-|
-|
- GF 
-|
- Grandfathering 
-|
-|
- GHG 
-|
- Greenhouse gas 
-|
-|
- IPCC 
-|
- Intergovernmental Panel on Climate Change 
-|
-|
- MCDA 
-|
- Multi-Criteria Decision Analysis 
-|
-|
- PCAF 
-|
- Partnership for Carbon Accounting Financials 
-|
-|
- RF 
-|
- Radiative forcing 
-|
-|
- SAW 
-|
- Simple Additive Weighting 
-|
-|
- SIC 
-|
- Standard Industrial Classification 
-|
-|
- tCO2e 
-|
- Tonnes of carbon dioxide equivalent 
-|
-|
- WTT 
-|
- Well-to-Tank 
-|
-
----
-
 *More updates to follow.*
-
-*MPhil Engineering for Sustainable Development, University of Cambridge, 2025-26*
