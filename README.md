@@ -1,11 +1,6 @@
 markdown
 # Downscaling Paris-aligned carbon budgets to institutional scale
 
-**Research Progress Update - Cambridge Institutional Case Study**
-
-MPhil in Engineering for Sustainable Development, University of Cambridge, 2025-26
-Supervisors: Academic supervisors, Centre for Sustainable Development
-
 ---
 
 Local authorities in the UK directly control only around 4% of territorial emissions. The remainder is produced by private organisations - colleges, businesses, hospitals - each of which sets carbon targets independently, with no mechanism to ensure those targets aggregate to the city-level remaining carbon budget. This page documents preliminary Scope 3 results from a detailed GHG inventory of a Cambridge college, informed by structured interviews with seven institutional stakeholders.
